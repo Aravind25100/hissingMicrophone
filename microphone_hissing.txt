@@ -1,0 +1,5 @@
+st=input()
+if("ss" in st):
+   print("hiss")
+else:
+   print("no hiss")
